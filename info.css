@@ -1,0 +1,44 @@
+.story{
+    margin-left: 30px;
+    
+}
+
+
+.story2{
+    font-size: normal;
+    font-family: Verdana;
+}
+
+.info2{
+    font-family: Verdana;
+    font-size: normal;
+}
+
+body {
+    background-color: #51e2f5;
+}
+
+.back{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    padding: 10px 15px;
+    background-color: #ffffff;
+    color: #4c00ff;
+    border: none;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.download{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
